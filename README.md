@@ -1,10 +1,10 @@
-# Quiz Challage - News homepage
+# Quiz Challage - Intro section page with interactive dropdown menu
 
 ![Design preview for the Intro section with dropdown navigation coding challenge](./design/desktop-preview.jpg)
 
 ## Welcome! 👋
 
-Welcome to Quiz 2 challenge for HCI course, this Quiz only will be opened during your class schedule .
+Welcome to Quiz 2 challenge for HCI course, this Quiz only will be opened during your class schedule.
 
 **To do this challenge, you need a good understanding of HTML and CSS, and basic JavaScript.**
 
